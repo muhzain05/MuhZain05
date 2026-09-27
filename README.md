@@ -1,94 +1,164 @@
-<!-- ====== HEADER ====== -->
 <div align="center">
 
-# Muhammad Zain Asad
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Muhammad%20Zain%20Asad&fontSize=38&fontAlignY=35&animation=fadeIn"/>
 
-Computer Science & Artificial Intelligence Student  
-Machine Learning • Deep Learning • Computer Vision • AI Research  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+(AI)+%40+University+of+Alberta;Scientific+Machine+Learning+%7C+GNNs+%7C+Molecular+Simulation;Machine+Learning+Research+%2B+Software+Engineering" alt="Typing SVG" />
+</a>
 
-<!-- Badges (use full hex colors) -->
-<div align="center">
+<br>
 
-### 📫 Connect With Me
-
-<!-- ====== SOCIAL BUTTONS ====== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammadzainasad/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:masad4@ualberta.ca">
-    <img alt="Email" src="https://img.shields.io/badge/Email-6d6d6d?style=flat-square&logo=gmail&logoColor=white&labelColor=30363d">
-  </a>
-  <a href="https://www.muhzain.me/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6d6d6d?style=flat-square&logo=googlechrome&logoColor=white&labelColor=30363d">
-  </a>
-</p>
-
+<a href="https://muhzain.me">
+  <img src="https://img.shields.io/badge/Portfolio-muhzain.me-181717?style=flat-square" />
+</a>
+<a href="https://www.linkedin.com/in/mzainasad/">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Zain%20Asad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
+<br>
 
-</div>
+## About
 
----
+I'm a Computer Science student specializing in Artificial Intelligence at the **University of Alberta**.
 
-<!-- ====== ABOUT ====== -->
-### 👋 Welcome
+My work sits primarily at the intersection of **machine learning and scientific computing**, with current research focused on graph neural network interatomic potentials, enhanced-sampling molecular dynamics, and ML-accelerated atomistic simulation.
 
-Hey there — I'm **Muhammad Zain Asad**, a Computer Science student specializing in **Artificial Intelligence** at the University of Alberta.  
-I build intelligent systems that *learn, adapt, and scale* from Graph Neural Networks for material science to end-to-end AI applications.
+I've also worked on equivariant GNNs for energy and force prediction, LLM inference and KV-cache robustness, and software systems across backend, mobile, and real-time applications.
 
----
+Currently interested in:
 
-<!-- ====== TECH STACK ====== -->
-### ⚙️ Technologies & Tools
-
-- **Languages:** Python, C++, JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, React  
-- **Tools:** Git, Docker, VS Code, Jupyter Notebook  
-- **Focus Areas:** Machine Learning, Computer Vision, Deep Learning, AI Systems  
+- Scientific machine learning
+- Graph neural networks
+- Molecular and atomistic simulation
+- ML systems and efficient inference
+- Applied machine learning
 
 ---
 
-<!-- ====== STATS + LANG (SIDE BY SIDE) ====== -->
-<!-- ====== STATS + LANG (SIDE BY SIDE) ====== -->
-<div align="center">
+## Research
+
+### ML-Accelerated Molecular Simulation
+
+Using pretrained graph neural network interatomic potentials as surrogate force fields for enhanced-sampling molecular dynamics.
+
+`MACE` `xTB` `ASE` `PyTorch` `Python`
+
+- Benchmarking ML and semi-empirical potential-energy surfaces
+- Comparing reaction pathways, barriers, energies, and atomic forces
+- Investigating correction methods for surrogate force fields
+- Building automated metadynamics simulation and analysis workflows
+
+### Equivariant GNNs for Atomistic Systems
+
+Developed graph neural network pipelines for predicting atomistic energies and forces from quantum-mechanical simulation data.
+
+`PyTorch` `e3nn` `Optuna` `GNNs`
+
+- Trained equivariant models on atomistic datasets
+- Derived forces through energy gradients
+- Performed hyperparameter optimization and model evaluation
+
+### KV-Cache Robustness in LLM Inference
+
+Studied transformer KV-cache reuse under context changes, model handoffs, and partial recomputation.
+
+`Transformers` `LLMs` `Python`
+
+- Evaluated cache reuse across altered contexts
+- Compared same-model and cross-model handoffs
+- Investigated recomputation thresholds and robustness trade-offs
+
+---
+
+## Selected Projects
 
 <table>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img
-        alt="GitHub stats"
-        height="165"
-        src="https://github-readme-stats.vercel.app/api?username=MuhammadZain2005&show_icons=false&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&hide_title=true"
-      />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img
-        alt="Top languages"
-        height="165"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005&layout=compact&langs_count=8&size_weight=0.55&count_weight=0.45&theme=github_dark&hide_border=true"
-      />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Plantagotchi
+
+Real-time mobile application combining a virtual companion with plant-care functionality.
+
+**Stack:** React Native, Node.js, WebSockets
+
+</td>
+<td width="50%" valign="top">
+
+### EventEase
+
+Android event-management and lottery application backed by real-time cloud infrastructure.
+
+**Stack:** Java, Android, Firebase
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 3D Ray Tracer
+
+Ray tracer implemented from scratch with geometric intersection, lighting, and rendering logic.
+
+**Stack:** C, Linear Algebra, Computer Graphics
+
+</td>
+<td width="50%" valign="top">
+
+### UNTAPPED
+
+Full-stack application with authentication, persistent relational storage, and REST APIs.
+
+**Stack:** Node.js, Express, PostgreSQL, Prisma
+
+</td>
+</tr>
 </table>
 
-</div>
-
-
 ---
 
-<!-- ====== CONTACT ====== -->
+## Technologies
+
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MuhammadZain2005&style=flat-square&color=6d6d6d)](#)
-![Followers](https://img.shields.io/github/followers/MuhammadZain2005?style=flat-square&color=6d6d6d&labelColor=30363d)
-![Stars](https://img.shields.io/github/stars/MuhammadZain2005?affiliations=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&style=flat-square&color=6d6d6d&labelColor=30363d)
+<img src="https://skillicons.dev/icons?i=python,pytorch,c,java,js,ts,nodejs,react,postgres,docker,git,linux&perline=12" />
 
 </div>
 
+<br>
+
+<table>
+<tr>
+<td><b>ML / Research</b></td>
+<td>PyTorch · scikit-learn · e3nn · MACE · NumPy · pandas · ASE · xTB</td>
+</tr>
+<tr>
+<td><b>Software</b></td>
+<td>Node.js · Express · React Native · PostgreSQL · Prisma · Firebase</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>Docker · Git · Linux · SLURM · Matplotlib</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhzain05&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
 ---
 
 <div align="center">
-<i>“Building the brains behind systems that think for themselves.”</i>
+
+**[muhzain.me](https://muhzain.me)**
+
 </div>
