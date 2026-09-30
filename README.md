@@ -39,7 +39,7 @@ Currently interested in:
 
 ## Research
 
-### ML-Accelerated Molecular Simulation
+### <a href="https://github.com/tiangroup-uofa/ml-accelerated-metadynamics">ML-Accelerated Molecular Simulation</a>
 
 Using pretrained graph neural network interatomic potentials as surrogate force fields for enhanced-sampling molecular dynamics.
 
@@ -66,6 +66,8 @@ Studied transformer KV-cache reuse under context changes, model handoffs, and pa
 
 `Transformers` `LLMs` `Python`
 
+**Repositories:** <a href="https://github.com/muhzain05/kv-transfer-replication">kv-transfer-replication</a> · <a href="https://github.com/muhzain05/lag-ladder">lag-ladder</a>
+
 - Evaluated cache reuse across altered contexts
 - Compared same-model and cross-model handoffs
 - Investigated recomputation thresholds and robustness trade-offs
@@ -76,43 +78,43 @@ Studied transformer KV-cache reuse under context changes, model handoffs, and pa
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### <a href="https://github.com/muhzain05/Plantagotchi">Plantagotchi</a>
+<h3><a href="https://github.com/muhzain05/Plantagotchi">Plantagotchi</a></h3>
 
-Real-time mobile application combining a virtual companion with plant-care functionality.
+<p>Real-time mobile application combining a virtual companion with plant-care functionality.</p>
 
-**Stack:** React Native, Node.js, WebSockets
+<p><strong>Stack:</strong> React Native, Node.js, WebSockets</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### <a href="https://github.com/muhzain05/EventEase">EventEase</a>
+<h3><a href="https://github.com/muhzain05/EventEase">EventEase</a></h3>
 
-Android event-management and lottery application backed by real-time cloud infrastructure.
+<p>Android event-management and lottery application backed by real-time cloud infrastructure.</p>
 
-**Stack:** Java, Android, Firebase
+<p><strong>Stack:</strong> Java, Android, Firebase</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### <a href="https://github.com/muhzain05/3D-Ray-Tracer">3D Ray Tracer</a>
+<h3><a href="https://github.com/muhzain05/3D-Ray-Tracer">3D Ray Tracer</a></h3>
 
-Ray tracer implemented from scratch with geometric intersection, lighting, and rendering logic.
+<p>Ray tracer implemented from scratch with geometric intersection, lighting, and rendering logic.</p>
 
-**Stack:** C, Linear Algebra, Computer Graphics
+<p><strong>Stack:</strong> C, Linear Algebra, Computer Graphics</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### UNTAPPED
+<h3>UNTAPPED</h3>
 
-Full-stack application with authentication, persistent relational storage, and REST APIs.
+<p>Full-stack application with authentication, persistent relational storage, and REST APIs.</p>
 
-**Stack:** Node.js, Express, PostgreSQL, Prisma
+<p><strong>Stack:</strong> Node.js, Express, PostgreSQL, Prisma</p>
 
 </td>
 </tr>
