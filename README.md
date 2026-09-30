@@ -50,7 +50,7 @@ Using pretrained graph neural network interatomic potentials as surrogate force 
 - Investigating correction methods for surrogate force fields
 - Building automated metadynamics simulation and analysis workflows
 
-### Equivariant GNNs for Atomistic Systems
+### <a href="https://github.com/muhzain05/GNN-ML-Model">Equivariant GNNs for Atomistic Systems</a>
 
 Developed graph neural network pipelines for predicting atomistic energies and forces from quantum-mechanical simulation data.
 
@@ -60,7 +60,7 @@ Developed graph neural network pipelines for predicting atomistic energies and f
 - Derived forces through energy gradients
 - Performed hyperparameter optimization and model evaluation
 
-### KV-Cache Robustness in LLM Inference
+### <a href="https://github.com/muhzain05/kv-transfer-replication">KV-Cache Robustness in LLM Inference</a>
 
 Studied transformer KV-cache reuse under context changes, model handoffs, and partial recomputation.
 
@@ -78,7 +78,7 @@ Studied transformer KV-cache reuse under context changes, model handoffs, and pa
 <tr>
 <td width="50%" valign="top">
 
-### Plantagotchi
+### <a href="https://github.com/muhzain05/Plantagotchi">Plantagotchi</a>
 
 Real-time mobile application combining a virtual companion with plant-care functionality.
 
@@ -87,7 +87,7 @@ Real-time mobile application combining a virtual companion with plant-care funct
 </td>
 <td width="50%" valign="top">
 
-### EventEase
+### <a href="https://github.com/muhzain05/EventEase">EventEase</a>
 
 Android event-management and lottery application backed by real-time cloud infrastructure.
 
@@ -99,7 +99,7 @@ Android event-management and lottery application backed by real-time cloud infra
 <tr>
 <td width="50%" valign="top">
 
-### 3D Ray Tracer
+### <a href="https://github.com/muhzain05/3D-Ray-Tracer">3D Ray Tracer</a>
 
 Ray tracer implemented from scratch with geometric intersection, lighting, and rendering logic.
 
