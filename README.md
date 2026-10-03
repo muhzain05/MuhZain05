@@ -153,7 +153,9 @@ Studied transformer KV-cache reuse under context changes, model handoffs, and pa
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhzain05&theme=github-compact&hide_border=true&area=true" />
+<a href="https://github.com/muhzain05">
+  <img width="95%" src="https://ghchart.rshah.org/39d353/muhzain05" alt="Muhammad Zain's GitHub contribution chart" />
+</a>
 
 </div>
 
