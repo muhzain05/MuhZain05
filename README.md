@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Muhammad%20Zain%20Asad&fontSize=38&fontAlignY=35&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+(AI)+%40+University+of+Alberta;Scientific+Machine+Learning+%7C+GNNs+%7C+Molecular+Simulation;Machine+Learning+Research+%2B+Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+(AI)+%40+University+of+Alberta;Scientific+Machine+Learning+%7C+GNNs+%7C+Molecular+Simulation;ML+Systems+%2B+Software+Engineering" alt="Typing SVG" />
 </a>
 
 <br>
@@ -23,54 +23,45 @@
 
 I'm a Computer Science student specializing in Artificial Intelligence at the **University of Alberta**.
 
-My work sits primarily at the intersection of **machine learning and scientific computing**, with current research focused on graph neural network interatomic potentials, enhanced-sampling molecular dynamics, and ML-accelerated atomistic simulation.
+My work is centered on **scientific machine learning and ML systems**: graph neural networks for atomistic systems, molecular simulation, and experiments around LLM KV-cache reuse and transfer. I also build software across Android, React Native, backend systems, and lower-level C projects.
 
-I've also worked on equivariant GNNs for energy and force prediction, LLM inference and KV-cache robustness, and software systems across backend, mobile, and real-time applications.
+Current interests:
 
-Currently interested in:
-
-- Scientific machine learning
-- Graph neural networks
-- Molecular and atomistic simulation
+- scientific machine learning
+- graph neural networks and interatomic potentials
+- molecular / atomistic simulation
 - ML systems and efficient inference
-- Applied machine learning
+- applied software engineering
 
 ---
 
 ## Research
 
-### <a href="https://github.com/tiangroup-uofa/ml-accelerated-metadynamics">ML-Accelerated Molecular Simulation</a>
+### [ML-Accelerated Molecular Simulation](https://github.com/tiangroup-uofa/ml-accelerated-metadynamics)
 
-Using pretrained graph neural network interatomic potentials as surrogate force fields for enhanced-sampling molecular dynamics.
+Research tooling for xTB metadynamics, atomistic analysis, MACE-OFF23 surrogate evaluation, transition-state workflows, and lightweight correction experiments.
 
-`MACE` `xTB` `ASE` `PyTorch` `Python`
+<code>MACE</code> <code>xTB</code> <code>ASE</code> <code>NumPy</code> <code>pandas</code> <code>Python</code>
 
-- Benchmarking ML and semi-empirical potential-energy surfaces
-- Comparing reaction pathways, barriers, energies, and atomic forces
-- Investigating correction methods for surrogate force fields
-- Building automated metadynamics simulation and analysis workflows
+The public repository includes reproducible metadynamics workflows, Diels-Alder reaction studies, MACE↔xTB force/energy comparisons, and post-training correction experiments.
 
-### <a href="https://github.com/muhzain05/GNN-ML-Model">Equivariant GNNs for Atomistic Systems</a>
+### Equivariant GNNs for Atomistic Systems
 
-Developed graph neural network pipelines for predicting atomistic energies and forces from quantum-mechanical simulation data.
+Research implementation for learning atomistic energies and forces from DFT data using E(3)-equivariant graph neural networks.
 
-`PyTorch` `e3nn` `Optuna` `GNNs`
+<code>PyTorch</code> <code>PyTorch Geometric</code> <code>e3nn</code> <code>Optuna</code>
 
-- Trained equivariant models on atomistic datasets
-- Derived forces through energy gradients
-- Performed hyperparameter optimization and model evaluation
+The primary research implementation is private. An earlier public, non-equivariant energy-model prototype is available in [GNN-CeramicMap](https://github.com/muhzain05/GNN-CeramicMap).
 
-### <a href="https://github.com/muhzain05/kv-transfer-replication">KV-Cache Robustness in LLM Inference</a>
+### KV-Cache / LLM Systems
 
-Studied transformer KV-cache reuse under context changes, model handoffs, and partial recomputation.
+Experimental work on KV-cache transfer and validity across model or policy changes.
 
-`Transformers` `LLMs` `Python`
+<code>PyTorch</code> <code>Transformers</code> <code>Python</code>
 
-**Repositories:** <a href="https://github.com/muhzain05/kv-transfer-replication">kv-transfer-replication</a> · <a href="https://github.com/muhzain05/lag-ladder">lag-ladder</a>
-
-- Evaluated cache reuse across altered contexts
-- Compared same-model and cross-model handoffs
-- Investigated recomputation thresholds and robustness trade-offs
+- [kv-transfer-replication](https://github.com/muhzain05/kv-transfer-replication) — CPU-scale replication of cross-model KV-cache transfer with held-out evaluation and explicit correctness gates
+- [lag-ladder](https://github.com/muhzain05/lag-ladder) — experimental design for measuring cache staleness as policy checkpoints diverge
+- [rl-cache-validity](https://github.com/muhzain05/rl-cache-validity) — instrumentation for testing whether cache reuse history matters beyond endpoint age/drift
 
 ---
 
@@ -82,18 +73,18 @@ Studied transformer KV-cache reuse under context changes, model handoffs, and pa
 
 <h3><a href="https://github.com/muhzain05/Plantagotchi">Plantagotchi</a></h3>
 
-<p>Real-time mobile application combining a virtual companion with plant-care functionality.</p>
+<p>Expo / React Native plant-care prototype with image-based plant identification, care-data lookup, WebSocket sensor telemetry, and rule-based plant-state feedback.</p>
 
-<p><strong>Stack:</strong> React Native, Node.js, WebSockets</p>
+<p><strong>Stack:</strong> React Native, TypeScript, Expo, Node.js, WebSockets</p>
 
 </td>
 <td width="50%" valign="top" align="left">
 
 <h3><a href="https://github.com/muhzain05/EventEase">EventEase</a></h3>
 
-<p>Android event-management and lottery application backed by real-time cloud infrastructure.</p>
+<p>Native Android event-management system with waitlists, role-based flows, maps, push notifications, and scheduled Firebase backend jobs.</p>
 
-<p><strong>Stack:</strong> Java, Android, Firebase</p>
+<p><strong>Stack:</strong> Java, Android, Firestore, Firebase Cloud Functions, FCM</p>
 
 </td>
 </tr>
@@ -103,18 +94,18 @@ Studied transformer KV-cache reuse under context changes, model handoffs, and pa
 
 <h3><a href="https://github.com/muhzain05/3D-Ray-Tracer">3D Ray Tracer</a></h3>
 
-<p>Ray tracer implemented from scratch with geometric intersection, lighting, and rendering logic.</p>
+<p>C99 sphere ray tracer with camera-ray generation, ray–sphere intersections, Lambertian lighting, hard shadows, and 3×3 supersampling.</p>
 
 <p><strong>Stack:</strong> C, Linear Algebra, Computer Graphics</p>
 
 </td>
 <td width="50%" valign="top" align="left">
 
-<h3>UNTAPPED</h3>
+<h3><a href="https://github.com/muhzain05/GNN-CeramicMap">GNN-CeramicMap</a></h3>
 
-<p>Full-stack application with authentication, persistent relational storage, and REST APIs.</p>
+<p>PyTorch Geometric prototype for converting VASP DFT calculations into periodic graphs and predicting boron-carbide energy per atom.</p>
 
-<p><strong>Stack:</strong> Node.js, Express, PostgreSQL, Prisma</p>
+<p><strong>Stack:</strong> Python, PyTorch, PyTorch Geometric, scientific computing</p>
 
 </td>
 </tr>
@@ -135,14 +126,14 @@ Studied transformer KV-cache reuse under context changes, model handoffs, and pa
 <table>
 <tr>
 <td><b>ML / Research</b></td>
-<td>PyTorch · scikit-learn · e3nn · MACE · NumPy · pandas · ASE · xTB</td>
+<td>PyTorch · PyTorch Geometric · scikit-learn · e3nn · MACE · NumPy · SciPy · pandas · ASE · xTB</td>
 </tr>
 <tr>
 <td><b>Software</b></td>
-<td>Node.js · Express · React Native · PostgreSQL · Prisma · Firebase</td>
+<td>Java · JavaScript · TypeScript · Node.js · Express · React · React Native · PostgreSQL · Prisma · Firebase</td>
 </tr>
 <tr>
-<td><b>Tools</b></td>
+<td><b>Tools / Infra</b></td>
 <td>Docker · Git · Linux · SLURM · Matplotlib</td>
 </tr>
 </table>
