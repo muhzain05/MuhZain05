@@ -115,7 +115,7 @@ Experimental work on KV-cache transfer and validity across model or policy chang
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,c,java,js,ts,nodejs,react,postgres,docker,git,linux&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,ts,js,java,pytorch,tensorflow,react,nextjs,nodejs,postgres,docker,git,linux&perline=15" alt="Core programming languages, frameworks, and development tools" />
 
 </div>
 
@@ -123,16 +123,24 @@ Experimental work on KV-cache transfer and validity across model or policy chang
 
 <table>
 <tr>
-<td><b>ML / Research</b></td>
-<td>PyTorch · PyTorch Geometric · scikit-learn · e3nn · MACE · NumPy · SciPy · pandas · ASE · xTB</td>
+<td><b>Languages</b></td>
+<td>Python · C · C++ · Bash · TypeScript · JavaScript · SQL · Java</td>
 </tr>
 <tr>
-<td><b>Software</b></td>
-<td>Java · JavaScript · TypeScript · Node.js · Express · React · React Native · PostgreSQL · Prisma · Firebase</td>
+<td><b>AI &amp; Machine Learning</b></td>
+<td>PyTorch · TensorFlow · Deep Learning · Computer Vision · GNNs · scikit-learn · Ray Tracing · PyTorch Geometric · e3nn · MACE · ASE · xTB · Optuna</td>
 </tr>
 <tr>
-<td><b>Tools / Infra</b></td>
-<td>Docker · Git · Linux · SLURM · Matplotlib</td>
+<td><b>Full-Stack Development</b></td>
+<td>React · React Native · Next.js · Node.js · Express · REST APIs · Firebase · Prisma · WebSockets</td>
+</tr>
+<tr>
+<td><b>Data &amp; Infra</b></td>
+<td>Data Pipelines · Benchmarking · PostgreSQL · pandas · Matplotlib · NumPy · SciPy · Docker · Linux/Unix · SLURM</td>
+</tr>
+<tr>
+<td><b>Testing &amp; Development</b></td>
+<td>Git · GitHub Actions · CI/CD · Playwright · pytest · Unit Testing · Agile/Scrum</td>
 </tr>
 </table>
 
