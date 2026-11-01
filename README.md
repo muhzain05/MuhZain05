@@ -1,18 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Muhammad%20Zain%20Asad&fontSize=38&fontAlignY=35&animation=fadeIn"/>
+<h1>Muhammad Zain Asad</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+(AI)+%40+University+of+Alberta;Scientific+Machine+Learning+%7C+GNNs+%7C+Molecular+Simulation;ML+Systems+%2B+Software+Engineering" alt="Typing SVG" />
-</a>
+<p><strong>Computer Science (AI) @ University of Alberta</strong><br/>Scientific Machine Learning | GNNs | Molecular Simulation<br/>ML Systems + Software Engineering</p>
 
 <br>
 
 <a href="https://muhzain.me">
-  <img src="https://img.shields.io/badge/Portfolio-muhzain.me-181717?style=flat-square" />
+  <strong>Portfolio · muhzain.me</strong>
 </a>
 <a href="https://www.linkedin.com/in/mzainasad/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Zain%20Asad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <strong>LinkedIn · Muhammad Zain Asad</strong>
 </a>
 
 </div>
@@ -21,7 +19,7 @@
 
 ## About
 
-I'm a Computer Science student specializing in Artificial Intelligence at the **University of Alberta**.
+I'm a Computer Science student specializing in Artificial Intelligence at the **University of Alberta** <img src="https://www.google.com/s2/favicons?domain=ualberta.ca&sz=32" height="19" alt="University of Alberta logo" />.
 
 My work is centered on **scientific machine learning and ML systems**: graph neural networks for atomistic systems, molecular simulation, and experiments around LLM KV-cache reuse and transfer. I also build software across Android, React Native, backend systems, and lower-level C projects.
 
@@ -37,7 +35,7 @@ Current interests:
 
 ## Research
 
-### [ML-Accelerated Molecular Simulation](https://github.com/tiangroup-uofa/ml-accelerated-metadynamics)
+### <img src="https://www.google.com/s2/favicons?domain=ualberta.ca&sz=32" height="19" alt="University of Alberta logo" /> [ML-Accelerated Molecular Simulation](https://github.com/tiangroup-uofa/ml-accelerated-metadynamics)
 
 Research tooling for xTB metadynamics, atomistic analysis, MACE-OFF23 surrogate evaluation, transition-state workflows, and lightweight correction experiments.
 
@@ -45,7 +43,7 @@ Research tooling for xTB metadynamics, atomistic analysis, MACE-OFF23 surrogate 
 
 The public repository includes reproducible metadynamics workflows, Diels-Alder reaction studies, MACE↔xTB force/energy comparisons, and post-training correction experiments.
 
-### Equivariant GNNs for Atomistic Systems
+### <img src="https://www.google.com/s2/favicons?domain=ualberta.ca&sz=32" height="19" alt="University of Alberta logo" /> Equivariant GNNs for Atomistic Systems
 
 Research implementation for learning atomistic energies and forces from DFT data using E(3)-equivariant graph neural networks.
 
@@ -53,7 +51,7 @@ Research implementation for learning atomistic energies and forces from DFT data
 
 The primary research implementation is private. An earlier public, non-equivariant energy-model prototype is available in [GNN-CeramicMap](https://github.com/muhzain05/GNN-CeramicMap).
 
-### KV-Cache / LLM Systems
+### <img src="https://www.google.com/s2/favicons?domain=algoverseairesearch.org&sz=32" height="19" alt="Algoverse logo" /> KV-Cache / LLM Systems
 
 Experimental work on KV-cache transfer and validity across model or policy changes.
 
@@ -117,7 +115,7 @@ Experimental work on KV-cache transfer and validity across model or policy chang
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,c,java,js,ts,nodejs,react,postgres,docker,git,linux&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,ts,js,java,pytorch,tensorflow,react,nextjs,nodejs,postgres,docker,git,linux&perline=15" alt="Core programming languages, frameworks, and development tools" />
 
 </div>
 
@@ -125,16 +123,24 @@ Experimental work on KV-cache transfer and validity across model or policy chang
 
 <table>
 <tr>
-<td><b>ML / Research</b></td>
-<td>PyTorch · PyTorch Geometric · scikit-learn · e3nn · MACE · NumPy · SciPy · pandas · ASE · xTB</td>
+<td><b>Languages</b></td>
+<td>Python · C · C++ · Bash · TypeScript · JavaScript · SQL · Java</td>
 </tr>
 <tr>
-<td><b>Software</b></td>
-<td>Java · JavaScript · TypeScript · Node.js · Express · React · React Native · PostgreSQL · Prisma · Firebase</td>
+<td><b>AI &amp; Machine Learning</b></td>
+<td>PyTorch · TensorFlow · Deep Learning · Computer Vision · GNNs · scikit-learn · Ray Tracing · PyTorch Geometric · e3nn · MACE · ASE · xTB · Optuna</td>
 </tr>
 <tr>
-<td><b>Tools / Infra</b></td>
-<td>Docker · Git · Linux · SLURM · Matplotlib</td>
+<td><b>Full-Stack Development</b></td>
+<td>React · React Native · Next.js · Node.js · Express · REST APIs · Firebase · Prisma · WebSockets</td>
+</tr>
+<tr>
+<td><b>Data &amp; Infra</b></td>
+<td>Data Pipelines · Benchmarking · PostgreSQL · pandas · Matplotlib · NumPy · SciPy · Docker · Linux/Unix · SLURM</td>
+</tr>
+<tr>
+<td><b>Testing &amp; Development</b></td>
+<td>Git · GitHub Actions · CI/CD · Playwright · pytest · Unit Testing · Agile/Scrum</td>
 </tr>
 </table>
 
