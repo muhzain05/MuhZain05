@@ -1,25 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Muhammad%20Zain%20Asad&fontSize=38&fontAlignY=35&animation=fadeIn"/>
+<h1>Muhammad Zain Asad</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+(AI)+%40+University+of+Alberta;Scientific+Machine+Learning+%7C+GNNs+%7C+Molecular+Simulation;ML+Systems+%2B+Software+Engineering" alt="Typing SVG" />
-</a>
+<p><strong>Computer Science (AI) @ University of Alberta</strong><br/>Scientific Machine Learning | GNNs | Molecular Simulation<br/>ML Systems + Software Engineering</p>
 
 <br>
 
 <a href="https://muhzain.me">
-  <img src="https://img.shields.io/badge/Portfolio-muhzain.me-181717?style=flat-square" />
+  <strong>Portfolio · muhzain.me</strong>
 </a>
 <a href="https://www.linkedin.com/in/mzainasad/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Zain%20Asad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <strong>LinkedIn · Muhammad Zain Asad</strong>
 </a>
 
 </div>
 
 <br>
 
-## About
+## About <img src="https://www.google.com/s2/favicons?domain=ualberta.ca&sz=32" height="19" alt="University of Alberta logo" />
 
 I'm a Computer Science student specializing in Artificial Intelligence at the **University of Alberta**.
 
@@ -37,7 +35,7 @@ Current interests:
 
 ## Research
 
-### [ML-Accelerated Molecular Simulation](https://github.com/tiangroup-uofa/ml-accelerated-metadynamics)
+### <img src="https://www.google.com/s2/favicons?domain=ualberta.ca&sz=32" height="19" alt="University of Alberta logo" /> [ML-Accelerated Molecular Simulation](https://github.com/tiangroup-uofa/ml-accelerated-metadynamics)
 
 Research tooling for xTB metadynamics, atomistic analysis, MACE-OFF23 surrogate evaluation, transition-state workflows, and lightweight correction experiments.
 
@@ -53,7 +51,7 @@ Research implementation for learning atomistic energies and forces from DFT data
 
 The primary research implementation is private. An earlier public, non-equivariant energy-model prototype is available in [GNN-CeramicMap](https://github.com/muhzain05/GNN-CeramicMap).
 
-### KV-Cache / LLM Systems
+### <img src="https://www.google.com/s2/favicons?domain=pytorch.org&sz=32" height="19" alt="PyTorch logo" /> KV-Cache / LLM Systems
 
 Experimental work on KV-cache transfer and validity across model or policy changes.
 
