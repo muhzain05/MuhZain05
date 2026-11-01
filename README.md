@@ -17,9 +17,9 @@
 
 <br>
 
-## About <img src="https://www.google.com/s2/favicons?domain=ualberta.ca&sz=32" height="19" alt="University of Alberta logo" />
+## About
 
-I'm a Computer Science student specializing in Artificial Intelligence at the **University of Alberta**.
+I'm a Computer Science student specializing in Artificial Intelligence at the **University of Alberta** <img src="https://www.google.com/s2/favicons?domain=ualberta.ca&sz=32" height="19" alt="University of Alberta logo" />.
 
 My work is centered on **scientific machine learning and ML systems**: graph neural networks for atomistic systems, molecular simulation, and experiments around LLM KV-cache reuse and transfer. I also build software across Android, React Native, backend systems, and lower-level C projects.
 
@@ -43,7 +43,7 @@ Research tooling for xTB metadynamics, atomistic analysis, MACE-OFF23 surrogate 
 
 The public repository includes reproducible metadynamics workflows, Diels-Alder reaction studies, MACE↔xTB force/energy comparisons, and post-training correction experiments.
 
-### Equivariant GNNs for Atomistic Systems
+### <img src="https://www.google.com/s2/favicons?domain=ualberta.ca&sz=32" height="19" alt="University of Alberta logo" /> Equivariant GNNs for Atomistic Systems
 
 Research implementation for learning atomistic energies and forces from DFT data using E(3)-equivariant graph neural networks.
 
@@ -51,7 +51,7 @@ Research implementation for learning atomistic energies and forces from DFT data
 
 The primary research implementation is private. An earlier public, non-equivariant energy-model prototype is available in [GNN-CeramicMap](https://github.com/muhzain05/GNN-CeramicMap).
 
-### <img src="https://www.google.com/s2/favicons?domain=pytorch.org&sz=32" height="19" alt="PyTorch logo" /> KV-Cache / LLM Systems
+### <img src="https://www.google.com/s2/favicons?domain=algoverseairesearch.org&sz=32" height="19" alt="Algoverse logo" /> KV-Cache / LLM Systems
 
 Experimental work on KV-cache transfer and validity across model or policy changes.
 
