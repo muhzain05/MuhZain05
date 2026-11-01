@@ -154,6 +154,10 @@ Experimental work on KV-cache transfer and validity across model or policy chang
   <img width="95%" src="https://ghchart.rshah.org/39d353/muhzain05" alt="Muhammad Zain's GitHub contribution chart" />
 </a>
 
+<br>
+
+<img src="koi/koi.gif" width="256" alt="Pixel-art koi generated from my public GitHub activity" />
+
 </div>
 
 ---
